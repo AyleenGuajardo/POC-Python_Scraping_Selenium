@@ -63,17 +63,16 @@ ContadorImpresora/ <br>
 
 <h3>🐞 ¿Qué pasa si una impresora falla?</h3>
 
-No te preocupes, el script:
+<h4>No te preocupes, el script:</h4>
 
-Continúa con la siguiente impresora.
-
-Anota el error específico en la columna “Estado Impresora”.
-
-Si el error es de autenticación, te dice “Alert: La autenticación ha fallado”.
-
-Si es un problema de conexión, te dice “Conexión rechazada”.
-
-Así puedes revisar qué IPs necesitas mirar con más calma.
+<ul>
+  <li>Continúa con la siguiente impresora.</li>
+  <li>Revisa el Excel generado en tu carpeta de descargas 🥳</li>
+  <li>Anota el error específico en la columna “Estado Impresora”.</li>
+  <li>Si el error es de autenticación, te dice “Alert: La autenticación ha fallado”.</li>
+  <li>Si es un problema de conexión, te dice “Conexión rechazada”.</li>
+  <li>Así puedes revisar qué IPs necesitas mirar con más calma.</li>
+</ul>
 
 <h3>🐳 ¿Lo quieres automatizar con Docker?</h3>
 
@@ -90,7 +89,4 @@ Así puedes revisar qué IPs necesitas mirar con más calma.
 </body>
 
 ____________________________________________________________________________________________________________________________________________________
-Desarrollado con ❤️ por <a href="https://www.instagram.com/ayleencgi/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/70d78bad-21f0-4fd7-9de9-86ece0620a9d" alt="instagram" width="16" height="16" style="vertical-align: middle;"/>
-  ayleencgi
-</a>. Inspirado en la necesidad de automatizar tareas repetitivas.
+Desarrollado con ❤️ por ayleencgi. Inspirado en la necesidad de automatizar tareas repetitivas.
