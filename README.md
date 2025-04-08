@@ -67,7 +67,6 @@ ContadorImpresora/ <br>
 
 <ul>
   <li>Continúa con la siguiente impresora.</li>
-  <li>Revisa el Excel generado en tu carpeta de descargas 🥳</li>
   <li>Anota el error específico en la columna “Estado Impresora”.</li>
   <li>Si el error es de autenticación, te dice “Alert: La autenticación ha fallado”.</li>
   <li>Si es un problema de conexión, te dice “Conexión rechazada”.</li>
